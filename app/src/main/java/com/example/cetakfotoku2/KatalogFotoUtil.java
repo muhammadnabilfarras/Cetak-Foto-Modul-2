@@ -7,12 +7,18 @@ public class KatalogFotoUtil {
     private static int[] ridArray = {
             R.drawable.prau,
             R.drawable.bromo,
+            R.drawable.merapi,
+            R.drawable.kelimutu,
+            R.drawable.rinjani,
 
     };
 
     private  static String[] filenameArray ={
             "prau",
             "bromo",
+            "merapi",
+            "kelimutu",
+            "rinjani",
 
     };
 
